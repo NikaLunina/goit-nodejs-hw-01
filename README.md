@@ -1,5 +1,13 @@
 # goit-nodejs-hw-01
-<a href="https://ibb.co/TmQCLkz"><img src="https://i.ibb.co/QrW5dfs/2023-06-09-19-15-31.png" alt="2023-06-09-19-15-31" border="0"></a>
-<a href="https://ibb.co/Yd2VvfX"><img src="https://i.ibb.co/QH9xsYk/2023-06-09-19-16-10.png" alt="2023-06-09-19-16-10" border="0"></a>
-<a href="https://ibb.co/TcYMBt9"><img src="https://i.ibb.co/nr6Msjx/2023-06-09-19-16-44.png" alt="2023-06-09-19-16-44" border="0"></a>
-<a href="https://ibb.co/SQKHP15"><img src="https://i.ibb.co/GsVG01n/2023-06-09-19-17-38.png" alt="2023-06-09-19-17-38" border="0"></a><br /><a target='_blank' href='https://ru.imgbb.com/'>файл закачки</a><br />
+
+--- Contact list
+<a href="https://ibb.co/pdS8fRv"><img src="https://i.ibb.co/6FkxH1R/2023-06-09-19-15-31.png" alt="2023-06-09-19-15-31" border="0"></a>
+
+--- Get contact by id
+<a href="https://ibb.co/qNKRJ2m"><img src="https://i.ibb.co/3p20RPS/2023-06-09-19-16-10.png" alt="2023-06-09-19-16-10" border="0"></a>
+
+--- Add new contact
+<a href="https://ibb.co/CJLq5BT"><img src="https://i.ibb.co/vs9bx1K/2023-06-09-19-16-44.png" alt="2023-06-09-19-16-44" border="0"></a>
+
+--- Remove contact
+<a href="https://ibb.co/87DzDwz"><img src="https://i.ibb.co/bKgHgVH/2023-06-09-19-17-38.png" alt="2023-06-09-19-17-38" border="0"></a>
